@@ -1,11 +1,13 @@
 Everything 3D printer related for Kuben vgs
 
 ## 3D printer-crew 2020 (oppdatert 09.09.2020)
-* Tobias 2ELR
-* Kåre 2ELR
-* Robin 2ELR
-* Eirik 2ELR
-* Hai 2ELR
+Alle er fra 2ELR.
+
+* Tobias Tvete
+* Kåre Peter Krohn Gjessing
+* Robin Aurland Bekkevold
+* Eirik Hoel
+* Hai Duc Pham
 
 Spør dem om 3D-printer ting! 
 
