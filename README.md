@@ -1,6 +1,13 @@
 # 3DPrinters
 Everything 3D printer related for Kuben vgs
 
+## 3D printer-crew 2020
+* Tobias
+* Kåre
+* Robin
+* Eirik
+* Hai
+
 # Robotikklinja
 
 ![prusa](img/prusa_i3_MK3.jpg)
