@@ -23,7 +23,7 @@ Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med m
 #### Utkast til regler
 * Opplæring på regler og best practice innen bruk
 * Bruk endest filamet som er kjøpt in av kuben
-* Noen må passe på printerne under bruk, ikke print nattetid, ta hellre pause
+* Noen må passe på printerne under bruk, ikke print nattetid, ta hellre pause. (Hard rule, brannvern)
 
 #### Åpne spørsmål
 * Hvem bestiller hvilken plastik?
