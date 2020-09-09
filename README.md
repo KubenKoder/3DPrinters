@@ -1,14 +1,15 @@
-.. 3DPrinters
 Everything 3D printer related for Kuben vgs
 
 ## 3D printer-crew 2020 (oppdatert 09.09.2020)
-* Tobias
-* Kåre
-* Robin
-* Eirik
-* Hai
+* Tobias 2ELR
+* Kåre 2ELR
+* Robin 2ELR
+* Eirik 2ELR
+* Hai 2ELR
 
-# Robotikklinja
+Spør dem om 3D-printer ting! 
+
+# Printers
 
 ![prusa](img/prusa_i3_MK3.jpg)
 
