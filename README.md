@@ -1,7 +1,7 @@
-# 3DPrinters
+.. 3DPrinters
 Everything 3D printer related for Kuben vgs
 
-## 3D printer-crew 2020
+## 3D printer-crew 2020 (oppdatert 09.09.2020)
 * Tobias
 * Kåre
 * Robin
