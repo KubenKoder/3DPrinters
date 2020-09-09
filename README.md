@@ -19,13 +19,3 @@ Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med m
 
 
 
-### SD-kort og opplading
-
-Det finnes SD-minneskort med wifi-støtte!
-
-Vi har bestillt 2 for å teste det ut.
-
-Mer informasjon:
-* [Prusa guide to Wifi Sd cards (2018)](https://blog.prusaprinters.org/easy-wireless-printing-with-flashair-sd-cards/)
-* [Wifi to SD from slicer](http://bobbyromeo.com/uncategorized/automate-syncing-of-g-code-files-toshiba-flashair-prusa-mk3-3d-printer/)
-* [WO-4 SD cards works in 2019](https://www.reddit.com/r/prusa3d/comments/bsqqvn/toshiba_flashair_support/)
