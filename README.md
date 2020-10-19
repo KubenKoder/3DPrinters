@@ -27,7 +27,7 @@ Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med m
 * Trykk på knappen med en "X" på for å oppdatere printeren
 * Velg "Last opp fra SD kort" og velg filen
 * Start print
-* Spør noen av
+* Spør noen av 3D printer-crew for hjelp hvis noe ikke funker
 
 #### Utkast til regler
 * Print for skoleprosjekter er prioritert
