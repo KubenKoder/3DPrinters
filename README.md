@@ -22,9 +22,19 @@ Robotikklinja har fra og med 13.11.2019 to stykk Pusa I3 MK3 3D printers.
 ### Hensikt
 Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med mest mulig frihet og minst mulig styr og problemer. Derfor kommer vi øverens om noen grundleggende regler for bruk av dem. Vi håper at det skal lede til at vi ikke trenger å låse dem bort.
 
+#### Bruk av 3D
+* Last opp gcode til SD korte i den printeren du vil bruker
+* Trykk på knappen med en "X" på for å oppdatere printeren
+* Velg "Last opp fra SD kort" og velg filen
+* Start print
+* Spør noen av
+
 #### Utkast til regler
-* Opplæring på regler og best practice innen bruk
-* Bruk endest filamet som er kjøpt in av kuben
+* Print for skoleprosjekter er prioritert
+* Hvis printet er mer enn 2 timer, og det ikke er for skole, kan det være at du blir spurt om å avbryte printen for skoleprosjekter
+* Ikke bruk noe annet enn PLA hvis ikke du har fått veiledning på annet matriale
+* Annet matriale skal hovedsakli til skoleprosjekter, spør hvis du skal bruke det for hobby prosjekter
+* Hvis du har fått veiledning på bruk av annet matriale, rens printeren etter bruk og bytt tilbake til PLA
 * Noen må passe på printerne under bruk, ikke print nattetid, ta hellre pause. (Hard rule, brannvern)
 
 #### Åpne spørsmål
