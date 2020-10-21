@@ -23,6 +23,7 @@ Robotikklinja har fra og med 13.11.2019 to stykk Pusa I3 MK3 3D printers.
 Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med mest mulig frihet og minst mulig styr og problemer. Derfor kommer vi øverens om noen grundleggende regler for bruk av dem. Vi håper at det skal lede til at vi ikke trenger å låse dem bort.
 
 #### Bruk av 3D
+* VASK DEN GRØNNE OVERFLATEN MED VANN OG SÅPE, TØRK AV ORDENTLIG
 * Last opp gcode til SD korte i den printeren du vil bruker
 * Trykk på knappen med en "X" på for å oppdatere printeren
 * Velg "Last opp fra SD kort" og velg filen
