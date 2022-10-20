@@ -1,16 +1,3 @@
-Everything 3D printer related for Kuben vgs
-
-## 3D printer-crew 2020 (oppdatert 09.09.2020)
-Alle er fra 2ELR.
-
-* Tobias Tvete
-* Kåre Peter Krohn Gjessing
-* Robin Aurland Bekkevold
-* Eirik Hoel
-* Hai Duc Pham
-
-Spør dem om 3D-printer ting! 
-
 # Printers
 
 ![prusa](img/prusa_i3_MK3.jpg)
@@ -50,13 +37,5 @@ Vi lærer og elever på avdelningen ønsker at printerne skal kunne brukes med m
 Begge printerne har nå SD-kort som er kompatible med våre elev-PCs
 
 ![](img/sd-kort_laptop.jpg) 
-
-#### Vi har testet SD-minneskort med wifi-støtte
-I 2019 så ble 2 flashair SD kort testet for å se om vi kunde laste opp filer over nettverk sinden vi ikke hade SD-kort-leser i elev-laptops.
-Tyværr så ble korten ødelagt og vi fikk det ikke til å virke men det kan prøves igjen.
-Disse gudier ble brukt:
-* [Prusa guide to Wifi Sd cards (2018)](https://blog.prusaprinters.org/easy-wireless-printing-with-flashair-sd-cards/)
-* [Wifi to SD from slicer](http://bobbyromeo.com/uncategorized/automate-syncing-of-g-code-files-toshiba-flashair-prusa-mk3-3d-printer/)
-* [WO-4 SD cards works in 2019](https://www.reddit.com/r/prusa3d/comments/bsqqvn/toshiba_flashair_support/)
 
 
