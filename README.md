@@ -38,4 +38,6 @@ Begge printerne har nå SD-kort som er kompatible med våre elev-PCs
 
 ![](img/sd-kort_laptop.jpg) 
 
+[VIDEO GUIDE HOW TO PRINT](https://youtu.be/X1EWVDr3Ze8)
+
 
